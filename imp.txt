@@ -1,0 +1,373 @@
+AIDS (Tuesday 12 November,2024):
+
+Module I: Uncertainty & Cognitive Computing
+
+Q1(a): From below given probability distribution find P (Cavity | Toothache) (Dec 2023)
+Q4(b): Illustrate inferencing in Bayesian Belief Network with an example. (Dec 2023)
+Q1(a): From above given probability distribution find P (Cavity | Toothache) (Dec 2022)
+Q4(b): Illustrate inferencing in Bayesian Belief Network with an example. (Dec 2022)
+Q1(a): From a standard deck of playing cards, a single card is drawn. The probability that the card is king is 4/52, then calculate posterior probability P(King | Face), which means face card is a king the drawn card. (May 2024)   
+Q4(b): What is a Markov Decision Process (MDP)? List its primary components. Explain in detail. (May 2024)
+
+Module II: Cognitive Computing
+
+Q2(b): Illustrate usage of taxonomies and ontologies for knowledge representation in cognitive system. (Dec 2023)
+Q5(a): List and explain the design principles of Cognitive System. (Dec 2023)
+Q2(b): Define Cognitive Computing. Draw a neat diagram of elements of the cognitive system and explain the elements. (Dec 2022)
+Q5(a): List steps in building a typical cognitive application. Explain the same for Healthcare application. (Dec 2022)
+Q2(b): Describe how cognitive computing can be applied in healthcare. Provide specific examples of tasks or problems that cognitive computing can help address, and explain the potential benefits. (May 2024)
+Q3(b): Explain the process of building a cognitive application? (May 2023)
+Q5(a): What is cognitive computing, and how does it differ from traditional computing? List the process of building a cognitive application. (May 2024)
+
+Module III: Fuzzy Logic & Its Applications
+
+Q1(b): Define defuzzification and State the necessity of the defuzzification process. (Dec 2023)
+Q4(a): Describe the Properties of Fuzzy Sets with an example. (Dec 2023)
+Q1(b): Explain the Centroid method of Defuzzification with a suitable diagram? (Dec 2022)
+Q4(a): Consider two fuzzy sets. Find the algebraic sum, algebraic product, bounded sum, and bounded difference of the given fuzzy sets and also describe properties of fuzzy sets. (Dec 2022)
+Q1(b): Describe the Centroid method of defuzzification. Include its formula and discuss its advantages and disadvantages compared to other defuzzification methods. (May 2024)
+Q4(a): Using Mamdani fuzzy model design a fuzzy logic controller to determine the wash time of domestic washing machine. Assume the inputs are dirt and grease on clothes. Use three descriptors for each input variable and five descriptor for output variables. Derive necessary membership functions and required fuzzy rules for the application. (May 2023)
+Q4(a): Using Mamdani fuzzy model design a fuzzy logic controller to determine the wash time of domestic washing machine. Assume the inputs are dirt and grease on clothes. Use three descriptors for each input variable and five descriptor for output variables. Derive necessary membership functions and required fuzzy rules for the application. (May 2024)
+
+Module IV: Introduction to Deep Learning
+
+Q1(c): Implement AND function using Mc-Culloch-Pitts neuron. (take binary data)? (Dec 2023)
+Q3(a): Explain the components of CNN architecture. (Dec 2023)
+Q5(b): State and elaborate the applications of deep learning. (Dec 2023)
+Q1(c): Describe Deep Learning concept with an example. (Dec 2022)
+Q3(a): Explain the components of CNN architecture. (Dec 2022)
+Q5(b): Illustrate the autoencoder with architecture diagram. (Dec 2022)
+Q1(c): List down different applications of Deep Learning. And explain it ) (May 2024)
+Q1(b): Briefly explain CNN architecture with representation) (May 2023)
+Q2(a): Explain the XOR function using McCulloch-Pitts model (use binary data) (May 2023)
+Q3(a): Explain how an autoencoder can be used for dimensionality reduction. Include a brief description of how the encoder and decoder parts of the network work in this context. (May 2024)
+Q5(a): What are the essential components of Autoencoder explain in detail? Which activation function is best for autoencoder. (May 2023)
+Q5(b): Describe the architecture of a typical CNN. What are the main components, and how do they contribute to the network's performance in image recognition tasks? (May 2024)
+
+Module V: Advanced ML Classification Techniques
+
+Q1(d): What is the significance of ROC curves? (Dec 2023)
+Q2(a): State Ensemble methods and describe anyone. (Dec 2023)
+Q6(a): Calculate Accuracy, Precision, Recall, Sensitivity and Specificity for the following example. (Dec 2023)
+Q2(a): How to improve the classification accuracy of class-Imbalanced data. Explain with suitable examples. (Dec 2022)
+Q6(a): Calculate Accuracy, Precision, Recall, Sensitivity and Specificity for the following example. (Dec 2022)
+Q1(a): Which are the various metrics for evaluating the classifier performance? (May 2023)
+Q1(d): Compare and contrast Bagging and Boosting with their application % (May 2024)
+Q2(b): How do you explain random forest? Does random forest need pruning, explain in detail? (May 2023)
+Q5(b): How does class imbalanced affect on classification? What are the ways to solve class imbalanced problem. (May 2023)
+Q6(a): Let's consider a binary classification problem where we have built a classifier to predict whether a transaction is fraudulent (positive class) or legitimate (negative class). After training the classifier and testing it on a dataset, we obtain the following confusion matrix: Calculate Accuracy, Precision, Recall and F1-score (May 2024)
+
+Module VI: Trends and applications in Data Science
+
+Q3(b): Perform a case study on book recommendation system (data science based) (Dec 2023)
+Q6(b): Write a short note on- Data Science for Multi modal applications. (Dec 2023)
+Q3(b): What is Multi modal application? Explain the Data Science for Multi modal applications. (Dec 2022)
+Q6(b): Write a short note on- Trends in Data Science. (Dec 2022)
+Q3(b): List three industries where data science is extensively used and briefly describe one application in each industry. (May 2024)
+Q6(a): Explain Data science for Multimodal applications (May 2023)
+Q6(b): Briefly explain Data science for Multimodal applications. (May 2024)
+
+IOE (Thursday 14 November,2024):
+
+Module I: Introduction to IoT
+
+Q1 (e): Explain the characteristic of IoT (May 2024)
+Q4 (b): Consider smart smoke detection system. Elaborate its working and list down the different types of sensors and actuators required during the deployment scenario. (May 2024)
+Q6 (a): Elaborate the Smart Object with diagram and describe all the essential components required to make the object into the smart object. (May 2023)
+Q1 (a): Define IoT with Conceptual Framework (Dec 2022)
+Q1 (e): Illustrate the components of IEEE 802.11 architecture. (Dec 2022)
+Q1 (e): Explain functional blocks of IoT (Dec 2023)
+Q6 (a): Define sensor, actuators and their role and classifications in brief. (Dec 2023)
+
+Module II: IoT Architecture
+
+Q3 (b): Elaborate the need for a new network architecture in IoT. (May 2024)
+Q4 (a): Compare edge, fog and cloud computing w.r.to its hierarchy. (May 2024)
+Q5 (b): Discuss the functional blocks of IoT architecture, highlighting their roles and interactions. Provide examples to illustrate the importance of each block in the overall functionality of IoT systems. (May 2024)
+Q2 (a): Describe IoT World Forum (IoTWF) Standardized Architecture. (May 2023)
+Q6 (b): Elaborate the need of new network architecture in IoT. (May 2023)
+Q2 (a): Describe IoT World Forum (IoTWF) Standardized Architecture. (Dec 2022)
+Q2 (b): Explain the concept of Fog Computing with Diagram. (Dec 2022)
+Q3 (b): With neat diagram, elaborate briefly the simplified 3 layered IoT architecture. (Dec 2023)
+Q4 (a): Differentiate and give Hierarchy between Edge, Fog, and Cloud computing (Dec 2023)
+
+Module III: Principles of Connected Devices and Protocols in IoT
+
+Q1 (a): Explain Bluetooth Low Energy(BLE) role (May 2024)
+Q2 (b): Evaluate long-range communication systems and protocols such as LTE, LTE-A, LoRa, and LoRaWAN in the context of IoT connectivity. Discuss their suitability for different IoT use cases based on factors like coverage, data rate, power consumption, and scalability. (May 2024)
+Q6 (b): Explain the following access technologies with applications area of each: 1) IEEE 802.15.4 2) Z-wave 3) LTE-A (May 2024)
+Q1 (e): Explain applications of Bluetooth Low Energy (BLE) (May 2023)
+Q3 (b): Explain the architecture of LoRaWAN with its major Characteristics. (May 2023)
+Q1 (b): Compare and contrast RFID with Bluetooth (Dec 2022)
+Q5 (a): Explain the architecture of LoRaWAN with its major Characteristics. (Dec 2022)
+Q1 (a): Explain ZigBee in brief. (Dec 2023)
+Q3 (a): Describe the communication system and protocols involved in long range communication system of IoT (Dec 2023)
+Q6 (b): Explain the following access technologies with applications area of each: 1) IEEE 802.15.4 2) RFID (Dec 2023)
+
+Module IV: Edge to Cloud Protocol
+
+Q1 (b): Briefly elaborate the COAP (May 2024)
+Q5 (a): Explain the role of HTTP, WebSocket, and MQTT in IoT communication. Compare and contrast these protocols in terms of their characteristics, suitability for different IoT scenarios, and support for real-time data transmission. (May 2024)
+Q1 (c): Briefly elaborate the Advanced Message Queuing Protocol(AMQP) (May 2023)
+Q6 (a): Draw and explain Architecture of MQTT with diagram. (May 2023)
+Q3 (a): Draw and explain Architecture of MQTT with diagram. (Dec 2022)
+Q4 (a): Discuss Various IoT Application Transport Methods. (Dec 2022)
+Q1 (b): Explain the Need of lightweight new communications protocols for IoT. (Dec 2023)
+Q5 (a): Elaborate MQTT with its working in details and two advantages over COAP. (Dec 2023)
+
+Module V: IoT and Data Analytics
+
+Q1 (c): Explain data retention strategy. (May 2024)
+Q2 (a): How can IoT analytics be effectively utilized within IoT-based healthcare systems? Additionally, what are some essential parameters that should be incorporated into the patient dashboard for comprehensive monitoring and management of health data? (May 2024)
+Q3 (a): Define the role of analytics in IoT technology and elaborate the challenges associated with it. (May 2024)
+Q1 (b): Compare and contrast IoT data analytics and IoT network analytics (May 2023)
+Q3 (a): Explain ecosystem for IoT enabled Smart Home Automation with respect to sensors, actuators, framework, protocols, storage, data analysis, security etc. (May 2023)
+Q3 (b): State advantages of data visualisation. Give different tools used for it. (May 2023)
+Q1 (c): What are the four big data strategies? (Dec 2022)
+Q1 (d): Explain loT Data Analytics importance (Dec 2022)
+Q3 (b): Explain the role of NoSQL in IoT Data Analytics Challenges. (Dec 2022)
+Q5 (b): What is the purpose of using a dashboard for data visualization? (Dec 2022)
+Q1 (c): Explain data retention strategy. (Dec 2023)
+Q2 (a): Elaborate in detail the strategies to organize Data for IoT Analytics. (Dec 2023)
+Q2 (b): Illustrate the role of Data refineries in preventing data lakes to turn into data swamps (Dec 2023)
+Q5 (b): Illustrate 3 methods for effective Data Visualization (Dec 2023)
+
+Module VI: IoT Application Design
+
+Q1 (d): Explain the concept of I-IoT and its similarity with IoT (May 2024)
+Q2 (b): Consider smart farming system. Elaborate its working and list down the different types of sensors and actuators required during the deployment scenario (May 2023)
+Q4 (b): Design the Forest Fire Detection system using loT sensors. (Dec 2022)
+Q6 (a): Explain ecosystem for loT enabled Smart Home with respect to sensors, actuators, framework, protocols, storage, data analysis, security etc. (Dec 2022)
+Q6 (b): Write short note on i) CoAP ii) Internet of Behaviour. (Dec 2022)
+Q1 (d): Write a short note on I-IoT (Dec 2023)
+Q4 (b): Consider Smart Irrigation system. Elaborate its working with block diagram and list down the different types of sensors and actuators required during the deployment scenario. (Dec 2023)
+
+IS (Tuesday 19 November,2024):
+
+Module I (Introduction)
+
+May 2024 - Q1 (a) - What is authentication? Explain any two techniques of authentication.
+May 2024 - Q6 (b) - Explain BIBA and Bell La Padula Model with appropriate diagram.
+Dec 2023 - Q1 (a) - Explain BIBA and Bell La Padula Model.
+May 2023 - Q2 (a) - Explain different access control policies using suitable example.
+May 2023 - Q3 (a) - Explain BIBA Multilevel security model with appropriate diagram.
+Dec 2022 - Q3 (a) - How does Bell-LaPadula model work to achieve access control?
+
+Module II (Software Security)
+
+May 2024 - Q1 (b) - Explain SQL injection attack with example.
+May 2024 - Q2 (b) - Describe various database integrity protection mechanisms.
+May 2024 - Q5 (a) - Explain different types of malwares in software security.
+Dec 2023 - Q1 (b) - What is transient and resident Virus? Explain Trojan horse, logic bomb, trapdoor.
+Dec 2023 - Q3 (a) - Explain in detail File protection mechanism.
+May 2023 - Q1 (a) - Explain SQL injection attack in detail with example.
+May 2023 - Q1 (b) - What is Buffer Overflow attack and how is it prevented?
+Dec 2022 - Q1 (e) - Explain buffer overflow attack along with its causes.
+Dec 2022 - Q5 (a) - Explain Multilevel database security models in detail.
+Dec 2022 - Q6 (a) - Explain File protection system in software security.
+
+Module III (Wireless Security)
+
+May 2024 - Q1 (d) - Explain wireless intrusion detection system.
+May 2024 - Q2 (a) - What is VPN and what are different security concerns? Describe types of VPN.
+Dec 2023 - Q1 (c) - Which are the different types of mobile security threats?
+Dec 2023 - Q3 (b) - Describe i) Threats in Mobile security ii) VPN Security.
+Dec 2023 - Q4 (b) - Explain Wireless Intrusion detection system.
+May 2023 - Q1 (c) - How is VPN helpful in securing data?
+May 2023 - Q2 (b) - Explain different wireless network threats.
+Dec 2022 - Q2 (b) - Explain different mobile device security threats in detail.
+Dec 2022 - Q4 (a) - What is VPN and what are different security concerns?
+
+Module IV (Cloud Security)
+
+May 2024 - Q3 (c) - Discuss the Cloud Identity and Access Management and its importance.
+May 2024 - Q4 (a) - Describe benefits of Cloud security as a service model.
+May 2023 - Q1 (d) - Describe in brief different countermeasures for cloud security.
+May 2023 - Q4 (a) - Describe in brief different countermeasures for cloud security.
+Dec 2022 - Q6 (b) - Discuss the Cloud Identity and Access Management and its importance.
+
+Module V (Web Security)
+
+May 2024 - Q1 (c) - Explain Cross Site Request Forgery (CSRF) with example.
+May 2024 - Q1 (e) - What are cookies? justify its significance in web security.
+May 2024 - Q3 (a) - Explain working of SSL with diagram.
+May 2024 - Q4 (b) - Explain session Hijacking and various techniques that could be used for Hijacking sessions.
+Dec 2023 - Q1 (d) - Discuss password policy.
+Dec 2023 - Q1 (e) - Write about types of firewall.
+Dec 2023 - Q2 (a) - In which security policy users do not have the authority to override the policies and it totally controlled centrally by the security policy administrator? Justify with example.
+Dec 2023 - Q4 (a) - Discuss cross site scripting and buffer overflow attack.
+Dec 2023 - Q5 (a) - What is Cross-Site Request Forgery attack? How to prevent it?
+Dec 2023 - Q5 (b) - Describe benefits of Cloud security as a service model.
+Dec 2023 - Q6 (a) - Discuss Trust Boundaries and IAM.
+Dec 2023 - Q6 (b) - Explain the following terms: i) Account Harvesting ii) SET iii) SSH iv) Firewalls v) Email attacks.
+May 2023 - Q4 (b) - Explain different web server and web browser attacks?
+May 2023 - Q5 (a) - What is session Hijacking? Explain various techniques that could be used for Hijacking sessions.
+May 2023 - Q5 (b) - What is OWASP? Explain its ten vulnerabilities.
+Dec 2022 - Q1 (a) - Describe various password cracking attacks.
+Dec 2022 - Q1 (c) - How does SSH help to achieve security?
+Dec 2022 - Q1 (d) - Differentiate between OAuth and SAML.
+Dec 2022 - Q2 (a) - Explain different types of Email Attacks.
+
+Module VI (Security and Risk Management)
+
+May 2024 - Q6 (a) - Explain in detail steps involved in risk analysis.
+Dec 2023 - Q2 (b) - State the four phases of an incident response? Describe them.
+May 2023 - Q6 (a) - Explain in detail Business Continuity and Disaster Recovery Planning.
+May 2023 - Q6 (b) - What are the challenges in legal enforcement in the case of cybercrimes?
+Dec 2022 - Q1 (b) - Explain Business Continuity plan.
+Dec 2022 - Q4 (b) - Explain in detail steps involved in risk analysis.
+
+IRS (Thursday 21 November,2024):
+
+Module I: Introduction
+
+May 2024 - Q1 (a) - Discuss Objective of IRS
+May 2024 - Q1 (d) - What is the purpose of a search engine?. List the steps of search operation by search engine.
+Dec 2022 - Q1 (a) - Explain logical view of a document with diagram.
+Dec 2022 - Q1 (b) - Differentiate between data retrieval and information retrieval.
+Dec 2022 - Q1 (c) - How does search engine retrieves the information?
+Dec 2022 - Q1 (d) - Describe metasearchers and it merits with example.
+May 2023 - Q1 (1) - Explain Classic Information Retrieval models.
+May 2023 - Q1 (3) - List and define different parameters to judge the quality of information.
+May 2023 - Q1 (4) - Explain search engine Architecture
+
+Module II: IR Models
+
+May 2024 - Q1 (b) - Define data modeling ? Explain any two types of data models.
+Dec 2022 - Q2 (a) - Explain taxonomy of information retrieval model with classification diagram.
+Dec 2023 - Q1 (b) - Compare boolean model and vector model
+Dec 2023 - Q2 (b) - Explain the taxonomy of Information retrieval model with classification diagram.
+
+Module III: Query Processing and Operations
+
+May 2024 - Q1 (c) - Compare and contrast Proximity Queries and Wildcard Queries.
+May 2024 - Q2 (a) - What is User relevance feedback: How this will contribute to get results.
+Dec 2022 - Q2 (b) - Explain various phases of text preprocessing within a document. Discuss any one application for same.
+Dec 2023 - Q1 (a) - Illustrate different types of keyword-based queries.
+Dec 2023 - Q2 (a) - State the different types of queries. Explain the pattern matching query concept with an example.
+Dec 2023 - Q6 (c) - User relevance feedback
+May 2023 - Q2 (1) - Explain Relevance Feedback. Discuss the contribution of relevance feedback for quality IR.
+May 2023 - Q2 (2) - Discuss automatic local analysis, with suitable example.
+
+Module IV: Text Processing
+
+May 2024 - Q2 (b) - Discuss various phases of text preprocessing within a document. Discuss any one application for the same.
+Dec 2023 - Q1 (c) - Discuss concept of Text search engine
+May 2023 - Q1 (2) - Define Natural Language with features and applications.
+May 2023 - Q6 (1) - Lexical analysis.
+May 2023 - Q6 (4) - Statistical text compression and Dictionary based text compression
+
+Module V: Indexing and Searching
+
+Dec 2022 - Q3 (a) - Discuss Huffman Algorithm in detail with suitable example.
+Dec 2022 - Q3 (b) - What is the purpose of using keyword based query? Briefly explain any 3 types of keyword based queries.
+Dec 2022 - Q4 (b) - Describe the process of creating inverted index with example. How this process can be optimized using block addressing?
+Dec 2022 - Q5 (a) - What is starting point? Explain list of collections and overviews in detail.
+Dec 2022 - Q5 (b) - Discuss sequential searching. Explain any one algorithm used in sequential searching.
+Dec 2023 - Q1 (d) - Explain inverted file indexing with suitable examples.
+Dec 2023 - Q3 (a) - What is the significance of tf and idf? How can you calculate tf and idf in a vector model?
+Dec 2023 - Q3 (b) - Explain ranking and similarity measures with suitable example.
+Dec 2023 - Q4 (a) - Describe the process of creating an inverted index. How can this be optimized with the help of block addressing?
+Dec 2023 - Q4 (b) - Discuss starting points. Explain list of collection and overviews in detail.
+Dec 2023 - Q5 (a) - What is flat browsing and hypertext browsing? Explain.
+Dec 2023 - Q5 (b) - Define Multimedia information retrieval. Discuss indexing and searching.
+Dec 2023 - Q6 (b) - Sequential searching
+May 2023 - Q4 (1) - Explain Object Oriented and Object Relational DBMS.
+May 2023 - Q5 (1) - Describe the process of creating an inverted index with an example. How can this process be optimized using block addressing?
+May 2023 - Q5 (2) - What is Query Specification? Describe direct manipulation and natural language in the context to Boolean query formulation.
+May 2024 - Q4 (a) - What is the purpose of using keyword based query? Briefly explain any 3 types of keyword based queries.
+May 2024 - Q4 (b) - What is the starting point? Explain list of collections and overviews in detail.
+May 2024 - Q5 (b) - Describe the process of creating an inverted index with an example. How can this process be optimized using block addressing?
+
+Module VI: User interface and visualization
+
+Dec 2022 - Q4 (a) - What is human-computer interaction? List and discuss any four design principles of human computer interaction.
+Dec 2022 - Q6 (a) - Interface support for the search process
+Dec 2023 - Q6 (a) - Interface support for the search process
+May 2023 - Q3 (2) - What is human-computer interaction? List and discuss any four design principles for information access interfaces.
+May 2023 - Q4 (2) - Write a note on Scalar and Metrics Clusters.
+May 2024 - Q3 (a) - Discuss automatic local analysis, with suitable examples.
+May 2024 - Q3 (b) - What is human-computer interaction? List and discuss any four design principles for information access interfaces
+May 2024 - Q5 (a) - Summarize two visualization techniques with respect to user interface design.
+
+CSL (Monday 25 November,2024):
+
+Module 1: Introduction to Cybercrime
+
+May 2023 - Q1 (c) - How cybercrimes differs from most terrestrial crimes?
+May 2024 - Q1 (d) - What is Cybercrime? Who are Cybercriminal? Explain.
+Dec 2022 - Q1 (a) - Differentiate between cybercrime and cyber fraud.
+Dec 2023 - Q1 (c) - Explain need of Cyber law in India
+
+Module 2: Cyber Offenses & Cybercrime
+
+May 2023 - Q1 (e) - What are Mobile Vulnerabilities?
+May 2023 - Q2 (a) - Discuss steps involved in planning of cyberattacks by criminal.
+May 2024 - Q1 (e) - Explain about Credit card frauds in Mobile and Wireless Computing era.
+May 2024 - Q2 (b) - Discuss steps involved in planning of cyberattacks by criminal.
+Dec 2022 - Q1 (e) - Explain different attack vectors in cyber security
+Dec 2022 - Q2 (a) - Explain the classification of cybercrimes with examples.
+Dec 2022 - Q2 (b) - Explain various types of credit card frauds
+Dec 2023 - Q1 (a) - Explain how criminals plan the attack
+Dec 2023 - Q1 (b) - Explain various security challenges posed by mobile devices
+Dec 2023 - Q2 (a) - Explain the classification of cybercrimes with examples.
+
+Module 3: Tools and Methods Used in Cybercrime
+
+May 2023 - Q1 (a) - List General guidelines for password policies.
+May 2023 - Q1 (b) - Difference between virus and worm.
+May 2023 - Q2 (b) - What is vishing attack? How it works? How to protect from vishing attack?
+May 2024 - Q1 (b) - Explain different password cracking techniques.
+May 2024 - Q2 (a) - If a hacker creates a website similar to university website to cheat student. Identify attack and explain different types it. How to prevent from such attack.
+May 2024 - Q4 (a) - Explain Steps for SQL Injection attack. How to prevent SQL Injection attacks?
+May 2024 - Q4 (b) - If an attacker creates heavy traffic on the college website so that it becomes inaccessible to the legitimate user. Which is this attack. Explain in details with it’s types.
+Dec 2022 - Q1 (c) - Explain methods of password cracking
+Dec 2022 - Q3 (a) - Explain different buffer overflow attacks also explain how to mitigate buffer overflow attack
+Dec 2022 - Q4 (a) - What do you understand by DOS and DDOS attack? Explain in detail.
+Dec 2022 - Q5 (b) - What are Botnets? How it is exploit by attacker to cause cyber attack?
+Dec 2022 - Q6 (a) - Explain SQL injection attack. State different countermeasure to prevent the attack.
+Dec 2023 - Q3 (a) - Explain different buffer overflow attacks also explain how to mitigate buffer overflow attack
+Dec 2023 - Q4 (a) - What do you understand by DOS and DDOS attack? Explain in detail.
+Dec 2023 - Q5 (a) - Explain SQL injection attack. State different countermeasure to prevent the attack.
+Dec 2023 - Q5 (b) - Explain the objectives and features of IT Act 2000
+
+Module 4: The Concept of Cyberspace
+
+May 2023 - Q3 (a) - What is e-commerce? Discuss types of e-commerce.
+May 2023 - Q3 (b) - Explain E-contracts and its different types.
+May 2024 - Q3 (a) - Explain different types of Cybercrimes and how security will provide?
+May 2024 - Q3 (b) - Explain why do we need cyber laws? Discuss about the challenges to Indian cyber laws
+Dec 2022 - Q1 (d) - Explain E-contracts and its different types.
+Dec 2022 - Q3 (b) - Explain electronic banking in India and what are laws related to electronic banking in India
+Dec 2022 - Q4 (b) - Write a note on Intellectual Property Aspects in cyber law.
+Dec 2023 - Q1 (d) - Explain E-contracts and its different types.
+Dec 2023 - Q3 (b) - Explain electronic banking in India and what are laws related to electronic banking in India
+Dec 2023 - Q4 (b) - Write a note on Intellectual Property Aspects in cyber law.
+
+Module 5: Indian IT Act
+
+May 2023 - Q6 (a) - Cyberdefamation
+May 2024 - Q6 (d) - Cyberstalking and harassment
+Dec 2022 - Q5 (a) - Explain the objectives and features of IT Act 2000
+Dec 2023 - Q1 (e) - What are Botnets? How it is exploit by attacker to cause cyber-attack?
+Dec 2023 - Q2 (b) - Explain Phishing and Identity theft in detail.
+Dec 2023 - Q6 (a) - Explain the term evidence and different types of evidences
+
+Module 6: Information Security Standard Compliances
+
+May 2023 - Q1 (d) - What are different Security Risks for Organizations?
+May 2023 - Q4 (a) - What are basic security precautions to be taken to safeguard Laptops and Wireless devices? Explain.
+May 2023 - Q4 (b) - What is Cybercrime? Who are Cybercriminals? Explain.
+May 2023 - Q5 (a) - What is digital evidence? Where one can find it.
+May 2023 - Q5 (b) - What are illegal activities observed in Cyber Cafe? What are safety and security measures while using the computer in Cyber Cafe?
+May 2024 - Q1 (a) - Explain about digital evidence.
+May 2024 - Q1 (c) - What are different Security Risks for Organizations?
+May 2024 - Q5 (a) - What are illegal activities observed in Cyber Cafes? What are safety and security measures while using the computer in Cyber Café?
+May 2024 - Q5 (b) - What are basic security precautions to be taken to safeguard Laptops and Wireless devices? Explain?
+May 2024 - Q6 (b) - HIPAA
+May 2024 - Q6 (e) - SOX
+Dec 2022 - Q6 (b) - Explain what is Information Security Standard and Explain HIPAA act in detail
+Dec 2023 - Q6 (b) - Write key IT requirements for SOX and HIPAA.
+
+
+
