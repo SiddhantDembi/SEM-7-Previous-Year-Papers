@@ -83,13 +83,9 @@ Module II: IoT Architecture
 
 Q3 (b): Elaborate the need for a new network architecture in IoT. (May 2024)
 Q4 (a): Compare edge, fog and cloud computing w.r.to its hierarchy. (May 2024)
-Q5 (b): Discuss the functional blocks of IoT architecture, highlighting their roles and interactions. Provide examples to illustrate the importance of each block in the overall functionality of IoT systems. (May 2024)
 Q2 (a): Describe IoT World Forum (IoTWF) Standardized Architecture. (May 2023)
-Q6 (b): Elaborate the need of new network architecture in IoT. (May 2023)
-Q2 (a): Describe IoT World Forum (IoTWF) Standardized Architecture. (Dec 2022)
 Q2 (b): Explain the concept of Fog Computing with Diagram. (Dec 2022)
 Q3 (b): With neat diagram, elaborate briefly the simplified 3 layered IoT architecture. (Dec 2023)
-Q4 (a): Differentiate and give Hierarchy between Edge, Fog, and Cloud computing (Dec 2023)
 
 Module III: Principles of Connected Devices and Protocols in IoT
 
@@ -141,79 +137,6 @@ Q6 (a): Explain ecosystem for loT enabled Smart Home with respect to sensors, ac
 Q6 (b): Write short note on i) CoAP ii) Internet of Behaviour. (Dec 2022)
 Q1 (d): Write a short note on I-IoT (Dec 2023)
 Q4 (b): Consider Smart Irrigation system. Elaborate its working with block diagram and list down the different types of sensors and actuators required during the deployment scenario. (Dec 2023)
-
-IRS (Thursday 21 November,2024):
-
-Module I: Introduction
-
-May 2024 - Q1 (a) - Discuss Objective of IRS
-May 2024 - Q1 (d) - What is the purpose of a search engine?. List the steps of search operation by search engine.
-Dec 2022 - Q1 (a) - Explain logical view of a document with diagram.
-Dec 2022 - Q1 (b) - Differentiate between data retrieval and information retrieval.
-Dec 2022 - Q1 (c) - How does search engine retrieves the information?
-Dec 2022 - Q1 (d) - Describe metasearchers and it merits with example.
-May 2023 - Q1 (1) - Explain Classic Information Retrieval models.
-May 2023 - Q1 (3) - List and define different parameters to judge the quality of information.
-May 2023 - Q1 (4) - Explain search engine Architecture
-
-Module II: IR Models
-
-May 2024 - Q1 (b) - Define data modeling ? Explain any two types of data models.
-Dec 2022 - Q2 (a) - Explain taxonomy of information retrieval model with classification diagram.
-Dec 2023 - Q1 (b) - Compare boolean model and vector model
-Dec 2023 - Q2 (b) - Explain the taxonomy of Information retrieval model with classification diagram.
-
-Module III: Query Processing and Operations
-
-May 2024 - Q1 (c) - Compare and contrast Proximity Queries and Wildcard Queries.
-May 2024 - Q2 (a) - What is User relevance feedback: How this will contribute to get results.
-Dec 2022 - Q2 (b) - Explain various phases of text preprocessing within a document. Discuss any one application for same.
-Dec 2023 - Q1 (a) - Illustrate different types of keyword-based queries.
-Dec 2023 - Q2 (a) - State the different types of queries. Explain the pattern matching query concept with an example.
-Dec 2023 - Q6 (c) - User relevance feedback
-May 2023 - Q2 (1) - Explain Relevance Feedback. Discuss the contribution of relevance feedback for quality IR.
-May 2023 - Q2 (2) - Discuss automatic local analysis, with suitable example.
-
-Module IV: Text Processing
-
-May 2024 - Q2 (b) - Discuss various phases of text preprocessing within a document. Discuss any one application for the same.
-Dec 2023 - Q1 (c) - Discuss concept of Text search engine
-May 2023 - Q1 (2) - Define Natural Language with features and applications.
-May 2023 - Q6 (1) - Lexical analysis.
-May 2023 - Q6 (4) - Statistical text compression and Dictionary based text compression
-
-Module V: Indexing and Searching
-
-Dec 2022 - Q3 (a) - Discuss Huffman Algorithm in detail with suitable example.
-Dec 2022 - Q3 (b) - What is the purpose of using keyword based query? Briefly explain any 3 types of keyword based queries.
-Dec 2022 - Q4 (b) - Describe the process of creating inverted index with example. How this process can be optimized using block addressing?
-Dec 2022 - Q5 (a) - What is starting point? Explain list of collections and overviews in detail.
-Dec 2022 - Q5 (b) - Discuss sequential searching. Explain any one algorithm used in sequential searching.
-Dec 2023 - Q1 (d) - Explain inverted file indexing with suitable examples.
-Dec 2023 - Q3 (a) - What is the significance of tf and idf? How can you calculate tf and idf in a vector model?
-Dec 2023 - Q3 (b) - Explain ranking and similarity measures with suitable example.
-Dec 2023 - Q4 (a) - Describe the process of creating an inverted index. How can this be optimized with the help of block addressing?
-Dec 2023 - Q4 (b) - Discuss starting points. Explain list of collection and overviews in detail.
-Dec 2023 - Q5 (a) - What is flat browsing and hypertext browsing? Explain.
-Dec 2023 - Q5 (b) - Define Multimedia information retrieval. Discuss indexing and searching.
-Dec 2023 - Q6 (b) - Sequential searching
-May 2023 - Q4 (1) - Explain Object Oriented and Object Relational DBMS.
-May 2023 - Q5 (1) - Describe the process of creating an inverted index with an example. How can this process be optimized using block addressing?
-May 2023 - Q5 (2) - What is Query Specification? Describe direct manipulation and natural language in the context to Boolean query formulation.
-May 2024 - Q4 (a) - What is the purpose of using keyword based query? Briefly explain any 3 types of keyword based queries.
-May 2024 - Q4 (b) - What is the starting point? Explain list of collections and overviews in detail.
-May 2024 - Q5 (b) - Describe the process of creating an inverted index with an example. How can this process be optimized using block addressing?
-
-Module VI: User interface and visualization
-
-Dec 2022 - Q4 (a) - What is human-computer interaction? List and discuss any four design principles of human computer interaction.
-Dec 2022 - Q6 (a) - Interface support for the search process
-Dec 2023 - Q6 (a) - Interface support for the search process
-May 2023 - Q3 (2) - What is human-computer interaction? List and discuss any four design principles for information access interfaces.
-May 2023 - Q4 (2) - Write a note on Scalar and Metrics Clusters.
-May 2024 - Q3 (a) - Discuss automatic local analysis, with suitable examples.
-May 2024 - Q3 (b) - What is human-computer interaction? List and discuss any four design principles for information access interfaces
-May 2024 - Q5 (a) - Summarize two visualization techniques with respect to user interface design.
 
 CSL (Monday 25 November,2024):
 
@@ -368,3 +291,76 @@ May 2023 - Q6 (a) - Explain in detail Business Continuity and Disaster Recovery 
 May 2023 - Q6 (b) - What are the challenges in legal enforcement in the case of cybercrimes?
 Dec 2022 - Q1 (b) - Explain Business Continuity plan.
 Dec 2022 - Q4 (b) - Explain in detail steps involved in risk analysis.
+
+IRS (Thursday 14 December,2024):
+
+Module I: Introduction
+
+May 2024 - Q1 (a) - Discuss Objective of IRS
+May 2024 - Q1 (d) - What is the purpose of a search engine?. List the steps of search operation by search engine.
+Dec 2022 - Q1 (a) - Explain logical view of a document with diagram.
+Dec 2022 - Q1 (b) - Differentiate between data retrieval and information retrieval.
+Dec 2022 - Q1 (c) - How does search engine retrieves the information?
+Dec 2022 - Q1 (d) - Describe metasearchers and it merits with example.
+May 2023 - Q1 (1) - Explain Classic Information Retrieval models.
+May 2023 - Q1 (3) - List and define different parameters to judge the quality of information.
+May 2023 - Q1 (4) - Explain search engine Architecture
+
+Module II: IR Models
+
+May 2024 - Q1 (b) - Define data modeling ? Explain any two types of data models.
+Dec 2022 - Q2 (a) - Explain taxonomy of information retrieval model with classification diagram.
+Dec 2023 - Q1 (b) - Compare boolean model and vector model
+Dec 2023 - Q2 (b) - Explain the taxonomy of Information retrieval model with classification diagram.
+
+Module III: Query Processing and Operations
+
+May 2024 - Q1 (c) - Compare and contrast Proximity Queries and Wildcard Queries.
+May 2024 - Q2 (a) - What is User relevance feedback: How this will contribute to get results.
+Dec 2022 - Q2 (b) - Explain various phases of text preprocessing within a document. Discuss any one application for same.
+Dec 2023 - Q1 (a) - Illustrate different types of keyword-based queries.
+Dec 2023 - Q2 (a) - State the different types of queries. Explain the pattern matching query concept with an example.
+Dec 2023 - Q6 (c) - User relevance feedback
+May 2023 - Q2 (1) - Explain Relevance Feedback. Discuss the contribution of relevance feedback for quality IR.
+May 2023 - Q2 (2) - Discuss automatic local analysis, with suitable example.
+
+Module IV: Text Processing
+
+May 2024 - Q2 (b) - Discuss various phases of text preprocessing within a document. Discuss any one application for the same.
+Dec 2023 - Q1 (c) - Discuss concept of Text search engine
+May 2023 - Q1 (2) - Define Natural Language with features and applications.
+May 2023 - Q6 (1) - Lexical analysis.
+May 2023 - Q6 (4) - Statistical text compression and Dictionary based text compression
+
+Module V: Indexing and Searching
+
+Dec 2022 - Q3 (a) - Discuss Huffman Algorithm in detail with suitable example.
+Dec 2022 - Q3 (b) - What is the purpose of using keyword based query? Briefly explain any 3 types of keyword based queries.
+Dec 2022 - Q4 (b) - Describe the process of creating inverted index with example. How this process can be optimized using block addressing?
+Dec 2022 - Q5 (a) - What is starting point? Explain list of collections and overviews in detail.
+Dec 2022 - Q5 (b) - Discuss sequential searching. Explain any one algorithm used in sequential searching.
+Dec 2023 - Q1 (d) - Explain inverted file indexing with suitable examples.
+Dec 2023 - Q3 (a) - What is the significance of tf and idf? How can you calculate tf and idf in a vector model?
+Dec 2023 - Q3 (b) - Explain ranking and similarity measures with suitable example.
+Dec 2023 - Q4 (a) - Describe the process of creating an inverted index. How can this be optimized with the help of block addressing?
+Dec 2023 - Q4 (b) - Discuss starting points. Explain list of collection and overviews in detail.
+Dec 2023 - Q5 (a) - What is flat browsing and hypertext browsing? Explain.
+Dec 2023 - Q5 (b) - Define Multimedia information retrieval. Discuss indexing and searching.
+Dec 2023 - Q6 (b) - Sequential searching
+May 2023 - Q4 (1) - Explain Object Oriented and Object Relational DBMS.
+May 2023 - Q5 (1) - Describe the process of creating an inverted index with an example. How can this process be optimized using block addressing?
+May 2023 - Q5 (2) - What is Query Specification? Describe direct manipulation and natural language in the context to Boolean query formulation.
+May 2024 - Q4 (a) - What is the purpose of using keyword based query? Briefly explain any 3 types of keyword based queries.
+May 2024 - Q4 (b) - What is the starting point? Explain list of collections and overviews in detail.
+May 2024 - Q5 (b) - Describe the process of creating an inverted index with an example. How can this process be optimized using block addressing?
+
+Module VI: User interface and visualization
+
+Dec 2022 - Q4 (a) - What is human-computer interaction? List and discuss any four design principles of human computer interaction.
+Dec 2022 - Q6 (a) - Interface support for the search process
+Dec 2023 - Q6 (a) - Interface support for the search process
+May 2023 - Q3 (2) - What is human-computer interaction? List and discuss any four design principles for information access interfaces.
+May 2023 - Q4 (2) - Write a note on Scalar and Metrics Clusters.
+May 2024 - Q3 (a) - Discuss automatic local analysis, with suitable examples.
+May 2024 - Q3 (b) - What is human-computer interaction? List and discuss any four design principles for information access interfaces
+May 2024 - Q5 (a) - Summarize two visualization techniques with respect to user interface design.
