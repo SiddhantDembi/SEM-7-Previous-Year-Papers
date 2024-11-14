@@ -140,82 +140,61 @@ Q4 (b): Consider Smart Irrigation system. Elaborate its working with block diagr
 
 CSL (Monday 25 November,2024):
 
-Module 1: Introduction to Cybercrime
+CSL (Monday 25 November,2024):
 
-May 2023 - Q1 (c) - How cybercrimes differs from most terrestrial crimes?
-May 2024 - Q1 (d) - What is Cybercrime? Who are Cybercriminal? Explain.
-Dec 2022 - Q1 (a) - Differentiate between cybercrime and cyber fraud.
-Dec 2023 - Q1 (c) - Explain need of Cyber law in India
+Module 1
+1. How cybercrimes differ from most terrestrial crimes?
+2. What is Cybercrime? Who are Cybercriminals? Explain.
+3. Differentiate between cybercrime and cyber fraud.
+4. Explain the classification of cybercrimes with examples.
+5. Explain the need for Cyber law in India.
+6. Explain different types of Cybercrimes and how security can be provided.
 
-Module 2: Cyber Offenses & Cybercrime
+Module 2
+1. What are Mobile Vulnerabilities?
+2. Discuss steps involved in planning of cyberattacks by criminals.
+3. Explain about Credit card frauds and its types in Mobile and Wireless Computing era.
+4. Explain different attack vectors in cybersecurity.
+5. Explain various security challenges posed by mobile devices.
+6. What are Botnets? How are they exploited by attackers to cause cyber-attacks?
+7. Explain Cyberstalking and harassment.
+8. What are different security risks for organizations?
+9. What are basic security precautions to be taken to safeguard Laptops and Wireless devices? Explain.
+10. What are illegal activities observed in Cyber Cafes? What are safety and security measures while using a computer in a Cyber Cafe?
 
-May 2023 - Q1 (e) - What are Mobile Vulnerabilities?
-May 2023 - Q2 (a) - Discuss steps involved in planning of cyberattacks by criminal.
-May 2024 - Q1 (e) - Explain about Credit card frauds in Mobile and Wireless Computing era.
-May 2024 - Q2 (b) - Discuss steps involved in planning of cyberattacks by criminal.
-Dec 2022 - Q1 (e) - Explain different attack vectors in cyber security
-Dec 2022 - Q2 (a) - Explain the classification of cybercrimes with examples.
-Dec 2022 - Q2 (b) - Explain various types of credit card frauds
-Dec 2023 - Q1 (a) - Explain how criminals plan the attack
-Dec 2023 - Q1 (b) - Explain various security challenges posed by mobile devices
-Dec 2023 - Q2 (a) - Explain the classification of cybercrimes with examples.
+Module 3
+1. List general guidelines for password policies.
+2. Difference between virus and worm.
+3. What is a vishing attack? How does it work? How to protect from a vishing attack?
+4. Explain different password cracking techniques.
+5. If a hacker creates a website just like the university website to cheat students, identify the attack, explain its types, and discuss how to prevent it.
+6. Explain the steps for an SQL Injection attack. How to prevent SQL Injection attacks?
+7. If an attacker creates heavy traffic on the college website so it becomes inaccessible to legitimate users, what type of attack is this? Explain in detail with its types.
+8. Explain different buffer overflow attacks and how to mitigate them.
+9. What do you understand by DOS and DDOS attacks? Explain in detail.
+10. Explain Phishing and Identity theft in detail.
+11. Short note on Steganography.
+12. Short note on Trojan Horse and backdoor.
 
-Module 3: Tools and Methods Used in Cybercrime
+Module 4
+1. What is e-commerce? Discuss the types of e-commerce.
+2. Explain E-contracts and their different types.
+3. Explain why we need cyber laws. Discuss the challenges to Indian cyber laws.
+4. Explain electronic banking in India and the laws related to electronic banking in India.
+5. Write a note on Intellectual Property Aspects in cyber law.
+6. Explain Cyberdefamation.
+7. Explain the term "evidence" and the different types of evidence.
+8. What is digital evidence? Where can it be found?
 
-May 2023 - Q1 (a) - List General guidelines for password policies.
-May 2023 - Q1 (b) - Difference between virus and worm.
-May 2023 - Q2 (b) - What is vishing attack? How it works? How to protect from vishing attack?
-May 2024 - Q1 (b) - Explain different password cracking techniques.
-May 2024 - Q2 (a) - If a hacker creates a website similar to university website to cheat student. Identify attack and explain different types it. How to prevent from such attack.
-May 2024 - Q4 (a) - Explain Steps for SQL Injection attack. How to prevent SQL Injection attacks?
-May 2024 - Q4 (b) - If an attacker creates heavy traffic on the college website so that it becomes inaccessible to the legitimate user. Which is this attack. Explain in details with it’s types.
-Dec 2022 - Q1 (c) - Explain methods of password cracking
-Dec 2022 - Q3 (a) - Explain different buffer overflow attacks also explain how to mitigate buffer overflow attack
-Dec 2022 - Q4 (a) - What do you understand by DOS and DDOS attack? Explain in detail.
-Dec 2022 - Q5 (b) - What are Botnets? How it is exploit by attacker to cause cyber attack?
-Dec 2022 - Q6 (a) - Explain SQL injection attack. State different countermeasure to prevent the attack.
-Dec 2023 - Q3 (a) - Explain different buffer overflow attacks also explain how to mitigate buffer overflow attack
-Dec 2023 - Q4 (a) - What do you understand by DOS and DDOS attack? Explain in detail.
-Dec 2023 - Q5 (a) - Explain SQL injection attack. State different countermeasure to prevent the attack.
-Dec 2023 - Q5 (b) - Explain the objectives and features of IT Act 2000
+Module 5
+1. Explain the objectives and features of the IT Act 2000.
 
-Module 4: The Concept of Cyberspace
+Module 6
+1. Short note on HIPAA.
+2. Short note on SOX.
+3. Short note on ISO.
+4. Short note on PCI.
 
-May 2023 - Q3 (a) - What is e-commerce? Discuss types of e-commerce.
-May 2023 - Q3 (b) - Explain E-contracts and its different types.
-May 2024 - Q3 (a) - Explain different types of Cybercrimes and how security will provide?
-May 2024 - Q3 (b) - Explain why do we need cyber laws? Discuss about the challenges to Indian cyber laws
-Dec 2022 - Q1 (d) - Explain E-contracts and its different types.
-Dec 2022 - Q3 (b) - Explain electronic banking in India and what are laws related to electronic banking in India
-Dec 2022 - Q4 (b) - Write a note on Intellectual Property Aspects in cyber law.
-Dec 2023 - Q1 (d) - Explain E-contracts and its different types.
-Dec 2023 - Q3 (b) - Explain electronic banking in India and what are laws related to electronic banking in India
-Dec 2023 - Q4 (b) - Write a note on Intellectual Property Aspects in cyber law.
-
-Module 5: Indian IT Act
-
-May 2023 - Q6 (a) - Cyberdefamation
-May 2024 - Q6 (d) - Cyberstalking and harassment
-Dec 2022 - Q5 (a) - Explain the objectives and features of IT Act 2000
-Dec 2023 - Q1 (e) - What are Botnets? How it is exploit by attacker to cause cyber-attack?
-Dec 2023 - Q2 (b) - Explain Phishing and Identity theft in detail.
-Dec 2023 - Q6 (a) - Explain the term evidence and different types of evidences
-
-Module 6: Information Security Standard Compliances
-
-May 2023 - Q1 (d) - What are different Security Risks for Organizations?
-May 2023 - Q4 (a) - What are basic security precautions to be taken to safeguard Laptops and Wireless devices? Explain.
-May 2023 - Q4 (b) - What is Cybercrime? Who are Cybercriminals? Explain.
-May 2023 - Q5 (a) - What is digital evidence? Where one can find it.
-May 2023 - Q5 (b) - What are illegal activities observed in Cyber Cafe? What are safety and security measures while using the computer in Cyber Cafe?
-May 2024 - Q1 (a) - Explain about digital evidence.
-May 2024 - Q1 (c) - What are different Security Risks for Organizations?
-May 2024 - Q5 (a) - What are illegal activities observed in Cyber Cafes? What are safety and security measures while using the computer in Cyber Café?
-May 2024 - Q5 (b) - What are basic security precautions to be taken to safeguard Laptops and Wireless devices? Explain?
-May 2024 - Q6 (b) - HIPAA
-May 2024 - Q6 (e) - SOX
-Dec 2022 - Q6 (b) - Explain what is Information Security Standard and Explain HIPAA act in detail
-Dec 2023 - Q6 (b) - Write key IT requirements for SOX and HIPAA.
 
 IS (Tuesday 30 November,2024):
 
