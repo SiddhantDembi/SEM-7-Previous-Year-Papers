@@ -254,6 +254,7 @@ Module VI (Security and Risk Management)
 3. Explain in detail Business Continuity and Disaster Recovery Planning.
 4. What are the challenges in legal enforcement in the case of cybercrimes?
 5. Explain Business Continuity plan. 
+6. Explain in detail Enterprises Mobility Management EMM with its components.
 
 IRS (Thursday 14 December,2024):
 
