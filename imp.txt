@@ -256,54 +256,50 @@ Module VI (Security and Risk Management)
 5. Explain Business Continuity plan. 
 6. Explain in detail Enterprises Mobility Management EMM with its components.
 
-IRS (Thursday 14 December,2024):
+IRS (Saturday 14 December, 2024):
 
 Module I: Introduction
 
-1. Discuss Objective of IRS.
+1. What is IRS and discuss objectives of IRS.
 2. Differentiate between data retrieval and information retrieval.
-3. Explain Classic Information Retrieval models.
-4. List and define different parameters to judge the quality of information.
-5. What is the purpose of a search engine? List the steps of search operation by search engine. How does search engine retrieves the information?
-6. Explain search engine Architecture
-7. Explain logical view of a document with diagram.
-8. Describe meta searchers and its merits with example.
+3. Explain logical view of a document with diagram.
 
 Module II: IR Models
 
-1. Define data modelling? Explain any two types of data models.
-2. Explain taxonomy of information retrieval model with classification diagram.
-3. Compare Boolean model and vector model.
+1. Explain taxonomy of information retrieval model with classification diagram.
+2. Explain Classic Information Retrieval models and compare.
+3. What is flat browsing and hypertext browsing? Explain.
 
 Module III: Query Processing and Operations
 
 1. What is User relevance feedback? How will this contribute to get results. Discuss its contribution for quality IR.
 2. Explain various phases of text preprocessing within a document. Discuss any one application for same.
 3. State the different types of queries. Explain the pattern matching query concept with an example.
-4. Illustrate different types of keyword-based queries.
+4. Illustrate different types of keyword-based queries. What is the purpose of using keyword-based query? Briefly explain any 3 types of keyword-based queries.
 5. Compare and contrast Proximity Queries and Wildcard Queries.
+6. List and define different parameters to judge the quality of information.
+7. Define Multimedia information retrieval. Discuss indexing and searching.
+8. Define data modelling? Explain any two types of data models.
 
 Module IV: Text Processing
 
 1. Discuss various phases of text preprocessing within a document. Discuss any one application for the same.
 2. Explain Lexical analysis.
 3. Define Natural Language with features and applications.
-4. Discuss concept of Text search engine.
-5. Statistical text compression and Dictionary based text compression.
 
 Module V: Indexing and Searching
 
 1. Discuss Huffman Algorithm in detail with suitable example.
 2. Describe the process of creating inverted index with example. How this process can be optimized using block addressing? Explain inverted file indexing with suitable examples.
-3. Define Multimedia information retrieval. Discuss indexing and searching.
-4. What is Query Specification? Describe direct manipulation and natural language in the context to Boolean query formulation.
-5. What is the purpose of using keyword-based query? Briefly explain any 3 types of keyword-based queries.
-6. Discuss sequential searching. Explain any one algorithm used in sequential searching.
-7. What is starting point? Explain list of collections and overviews in detail.
-8. What is the significance of tf and idf? How can you calculate tf and idf in a vector model?
-9.  Explain ranking and similarity measures with suitable example.
-10. What is flat browsing and hypertext browsing? Explain.
-11. Explain Object Oriented and Object Relational DBMS.
+3. Statistical text compression and Dictionary based text compression.
+4. Discuss sequential searching/linear searching. Explain any one algorithm used in sequential searching.
+5. What is the significance of tf and idf? How can you calculate tf and idf in a vector model?
+6.  Explain ranking and similarity measures with suitable example.
+7. Explain Object Oriented and Object Relational DBMS.
+8. What is the purpose of a search engine? List the steps of search operation by search engine. How does search engine retrieves the information? Architecture of Search Engine. 
+9. Describe meta searchers and its merits with example.
+10. Discuss automatic local analysis, with suitable examples.
+11. What is Query Specification? Describe direct manipulation and natural language in the context to Boolean query formulation.
 
 Module VI: User interface and visualization
 
@@ -311,4 +307,5 @@ Module VI: User interface and visualization
 2. Explain Interface support for the search process.
 3. Write a note on Scalar and Metrics Clusters.
 4. Summarize two visualization techniques with respect to user interface design.
-5. Discuss automatic local analysis, with suitable examples.
+5. What is starting point? Explain list of collections and overviews in detail.
+
